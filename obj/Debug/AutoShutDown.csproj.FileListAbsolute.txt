@@ -1,0 +1,8 @@
+C:\Users\shaki\source\repos\AutoShutDown\bin\Debug\AutoShutDown.exe.config
+C:\Users\shaki\source\repos\AutoShutDown\bin\Debug\AutoShutDown.exe
+C:\Users\shaki\source\repos\AutoShutDown\bin\Debug\AutoShutDown.pdb
+C:\Users\shaki\source\repos\AutoShutDown\obj\Debug\AutoShutDown.Form1.resources
+C:\Users\shaki\source\repos\AutoShutDown\obj\Debug\AutoShutDown.Properties.Resources.resources
+C:\Users\shaki\source\repos\AutoShutDown\obj\Debug\AutoShutDown.csproj.GenerateResource.cache
+C:\Users\shaki\source\repos\AutoShutDown\obj\Debug\AutoShutDown.exe
+C:\Users\shaki\source\repos\AutoShutDown\obj\Debug\AutoShutDown.pdb
